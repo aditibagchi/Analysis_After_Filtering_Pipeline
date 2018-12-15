@@ -1,2 +1,4 @@
 # Analysis_After_Filtering_Pipeline
 Comparison of the exome and genome data after application of filtering pipeline
+The exome data generated using tumor only mode of the GATK pipeline; had high proportion of germline variants, these. Thes evariants needed to be filtered using a filteration strategy. For vaildation and conformation of the strategy  we also called variants for 30 of the whole genomes from ICGC and then use this filetring strategy to filter out the variants. 
+This repository has the code and essential documents I used to analyse the filtering strategy and what could be the estimated number of germlne variants in the files. 
